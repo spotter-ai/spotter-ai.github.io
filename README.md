@@ -1,5 +1,4 @@
-# al-folio
-## Workflow
+# SPOTTER
 
 ### Installation
 
